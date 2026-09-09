@@ -54,4 +54,4 @@ To evaluate real-world model deployment beyond global averages, forecast accurac
 
 ## Author
 **Saad Abdullah**  
-* [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammadsaadabdullah/))
+* [LinkedIn](https://www.linkedin.com/in/muhammadsaadabdullah/)
